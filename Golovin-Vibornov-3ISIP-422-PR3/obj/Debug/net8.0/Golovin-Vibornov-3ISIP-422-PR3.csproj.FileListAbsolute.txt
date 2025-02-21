@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\bin\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.exe
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\bin\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.deps.json
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\bin\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.runtimeconfig.json
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\bin\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.dll
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\bin\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.pdb
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\obj\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\obj\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\obj\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.AssemblyInfo.cs
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\obj\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\obj\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.dll
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\obj\Debug\net8.0\refint\Golovin-Vibornov-3ISIP-422-PR3.dll
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\obj\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.pdb
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\obj\Debug\net8.0\Golovin-Vibornov-3ISIP-422-PR3.genruntimeconfig.cache
+C:\Users\User\source\repos\Golovin-Vibornov-3ISIP-422-PR3\Golovin-Vibornov-3ISIP-422-PR3\obj\Debug\net8.0\ref\Golovin-Vibornov-3ISIP-422-PR3.dll
