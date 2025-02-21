@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf14cd63-da8f-450c-b12c-9b96682540d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/Golovin-Vibornov-3ISIP-422-PR3/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Golovin-Vibornov-3ISIP-422-PR3/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Golovin-Vibornov-3ISIP-422-PR3/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Golovin-Vibornov-3ISIP-422-PR3/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Golovin-Vibornov-3ISIP-422-PR3/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Golovin-Vibornov-3ISIP-422-PR3/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Golovin-Vibornov-3ISIP-422-PR3/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Golovin-Vibornov-3ISIP-422-PR3/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/bin/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/bin/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/bin/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/bin/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/bin/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/bin/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/Golovin-Vibornov-3ISIP-422-PR3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/ref/Golovin-Vibornov-3ISIP-422-PR3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/ref/Golovin-Vibornov-3ISIP-422-PR3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/refint/Golovin-Vibornov-3ISIP-422-PR3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Debug/net8.0/refint/Golovin-Vibornov-3ISIP-422-PR3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Golovin-Vibornov-3ISIP-422-PR3.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Golovin-Vibornov-3ISIP-422-PR3.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Golovin-Vibornov-3ISIP-422-PR3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/Golovin-Vibornov-3ISIP-422-PR3.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Golovin-Vibornov-3ISIP-422-PR3/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2tLXvnuyrPVJxbTyfdLTiOmh8TX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "program2",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf14cd63-da8f-450c-b12c-9b96682540d9" name="Changes" comment="" />
+      <created>1740132562230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740132562230</updated>
+      <workItem from="1740132564725" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
