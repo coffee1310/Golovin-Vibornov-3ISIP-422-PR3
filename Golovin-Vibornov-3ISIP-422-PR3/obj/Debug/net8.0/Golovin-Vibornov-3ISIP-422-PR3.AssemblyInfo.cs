@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Golovin-Vibornov-3ISIP-422-PR3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+953b1a58aa70abd032f97936e91d78ba7ba49f04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7d46cfff38b2c794b8b56861f39d72787dae4db")]
 [assembly: System.Reflection.AssemblyProductAttribute("Golovin-Vibornov-3ISIP-422-PR3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Golovin-Vibornov-3ISIP-422-PR3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
